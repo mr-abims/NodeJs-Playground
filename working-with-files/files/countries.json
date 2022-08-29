@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Nigeria",
+        "code": "NG"
+    },
+    {
+        "name": "Niger",
+        "code": "NE"
+    },
+    {
+        "name": "United States",
+        "code": "US"
+    },
+    {
+        "name": "United Kingdom",
+        "code": "GB"
+    },
+    {
+        "name": "United Arab Emirates",
+        "code": "AE"
+    },
+    {
+        "name": "Uruguay",
+        "code": "UY"
+    },
+    {
+        "name": "Uzbekistan",
+        "code": "UZ"
+    },
+    {
+        "name": "Venezuela",
+        "code": "VE"
+    },
+    {
+        "name": "Vietnam",
+        "code": "VN"
+    },
+    {
+        "name": "Yemen",
+        "code": "YE"
+    },
+    {
+        "name": "Zambia",
+        "code": "ZM"
+    },
+    {
+        "name": "Zimbabwe",
+        "code": "ZW"
+    }
+]
